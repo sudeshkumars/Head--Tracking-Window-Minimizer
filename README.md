@@ -20,9 +20,11 @@ Perfect for:
 - Productivity setups
 
 
-## Demo
  <img width="1280" height="640" alt="Discord bots (1)" src="https://github.com/user-attachments/assets/45b9410c-032a-444d-a42f-18fdb0b7d5a0" />
 
+## Demo
+
+https://youtu.be/6Go971NKeHk
 
 ## ✨ Features
 
