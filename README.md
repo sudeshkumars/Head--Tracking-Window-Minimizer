@@ -72,6 +72,7 @@ Make sure you install exactly:
   - macOS ✔
   - Linux ✔
 
+Need a webcam to monitor
 ### Required Python Packages
 All dependencies compatible with Python 3.11:
 
